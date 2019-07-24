@@ -4,7 +4,7 @@
   "DefuserDifficulty": "Very Easy",
   "Description": "Figure out whether the displayed alphabetical character is next in a sequence or not. Tags: alphabet, chalkboard",
   "ExpertDifficulty": "Easy",
-  "ModuleID": "Alphabetize2",
+  "ModuleID": "Alphabetize",
   "Name": "Alphabetize",
   "Origin": "Mods",
   "Published": "2019-07-24",
